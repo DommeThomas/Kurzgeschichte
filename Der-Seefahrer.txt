@@ -1,6 +1,6 @@
 Es war einmal ein alter Seefahrer. Er hatte sonnengegerbte Haut und schon weiße Haare.
 Er besaß nur das, was er in seinem Seesack hatte:
-Essbesteck
+Silbernes Essbesteck
 3 Silbermünzen
 etwas Kleidung
 Spielkarten
@@ -8,3 +8,5 @@ Tabak
 einen Metallspiegel
 
 Eines Tages, als sein Geld zur Neige ging, heuerte er erneut auf einem Segelschiff an.
+Als er aber eine Woche auf dem Schiff war, merkte er, dass er sein Essen nicht mehr behalten konnte.
+Er musste sich immer und immer wieder übergeben. Glücklicherweise konnte er aber Flüssigkeit aufnehmen und behalten.
